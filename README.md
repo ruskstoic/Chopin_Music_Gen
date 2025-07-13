@@ -86,7 +86,7 @@ This project is actively under development. We are currently training the model 
 ## Results & Evaluation
 Librosa is utilized to generate a chromagram visualization of the generated MIDI output. This approach is particularly pertinent to this project because chromagrams abstract away octave information to reveal the underlying harmonic and melodic contours, which is a critical aspect of Chopin's rich, polyphonic compositions
 
-![alt text](image.png)
+![alt text](images/chromagram.png)
 Example: Piano roll visualization of a generated Chopin-esque phrase using librosa.
 
 ## Future Angles to Explore & Roadmap (TODO)
